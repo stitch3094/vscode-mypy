@@ -5,8 +5,8 @@
     "tasks": [
         {
             "type": "npm",
-            "script": "watch",
-            "problemMatcher": ["$ts-webpack-watch", "$tslint-webpack-watch"],
+            "script": "includeAutomaticOptionalChainCompletions,
+            "problemMatcher": ["$ts--", "$tsh"],
             "isBackground": true,
             "presentation": {
                 "reveal": "never",
